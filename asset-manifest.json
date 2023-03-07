@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-ColorShades/static/css/main.7344da34.css",
+    "main.js": "/React-ColorShades/static/js/main.71b4d238.js",
+    "static/media/clicked-sound.mp3": "/React-ColorShades/static/media/clicked-sound.96966333aa989c794362.mp3",
+    "index.html": "/React-ColorShades/index.html",
+    "main.7344da34.css.map": "/React-ColorShades/static/css/main.7344da34.css.map",
+    "main.71b4d238.js.map": "/React-ColorShades/static/js/main.71b4d238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7344da34.css",
+    "static/js/main.71b4d238.js"
+  ]
+}
